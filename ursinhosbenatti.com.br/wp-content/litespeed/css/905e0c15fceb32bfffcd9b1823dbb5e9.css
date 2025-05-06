@@ -1,0 +1,87 @@
+.elementor-2551 .elementor-element.elementor-element-541b187b>.elementor-element-populated {
+    padding: 50px 50px 50px 50px
+}
+
+.elementor-widget-heading .elementor-heading-title {
+    font-family: var(--e-global-typography-primary-font-family), Sans-serif;
+    font-weight: var(--e-global-typography-primary-font-weight);
+    color: var(--e-global-color-primary)
+}
+
+.elementor-2551 .elementor-element.elementor-element-1a3b0b90 {
+    text-align: center
+}
+
+.elementor-2551 .elementor-element.elementor-element-1a3b0b90 .elementor-heading-title {
+    font-family: "Poppins", Sans-serif;
+    font-weight: 600;
+    color: #020202
+}
+
+.elementor-widget-text-editor {
+    font-family: var(--e-global-typography-text-font-family), Sans-serif;
+    font-weight: var(--e-global-typography-text-font-weight);
+    color: var(--e-global-color-text)
+}
+
+.elementor-widget-text-editor.elementor-drop-cap-view-stacked .elementor-drop-cap {
+    background-color: var(--e-global-color-primary)
+}
+
+.elementor-widget-text-editor.elementor-drop-cap-view-framed .elementor-drop-cap,
+.elementor-widget-text-editor.elementor-drop-cap-view-default .elementor-drop-cap {
+    color: var(--e-global-color-primary);
+    border-color: var(--e-global-color-primary)
+}
+
+.elementor-2551 .elementor-element.elementor-element-5890ff75 {
+    text-align: center;
+    font-family: "Poppins", Sans-serif;
+    font-weight: 500;
+    color: #1F1F1F
+}
+
+.elementor-widget-fluent-form-widget .fluentform-widget-description {
+    font-family: var(--e-global-typography-accent-font-family), Sans-serif;
+    font-weight: var(--e-global-typography-accent-font-weight)
+}
+
+.elementor-widget-fluent-form-widget .ff-el-progress-status {
+    color: var(--e-global-color-primary);
+    font-family: var(--e-global-typography-primary-font-family), Sans-serif;
+    font-weight: var(--e-global-typography-primary-font-weight)
+}
+
+.elementor-widget-fluent-form-widget .ff-el-progress-bar span {
+    color: var(--e-global-color-primary)
+}
+
+.elementor-widget-fluent-form-widget .step-nav button {
+    font-family: var(--e-global-typography-primary-font-family), Sans-serif;
+    font-weight: var(--e-global-typography-primary-font-weight)
+}
+
+.elementor-2551 .elementor-element.elementor-element-759fddce .fluentform-widget-wrapper .ff-el-group .ff-btn-submit {
+    background-color: #25D366 !important;
+    color: #ffffff !important
+}
+
+#elementor-popup-modal-2551 {
+    background-color: rgb(0 0 0 / .8);
+    justify-content: center;
+    align-items: center;
+    pointer-events: all
+}
+
+#elementor-popup-modal-2551 .dialog-message {
+    width: 640px;
+    height: auto
+}
+
+#elementor-popup-modal-2551 .dialog-close-button {
+    display: flex
+}
+
+#elementor-popup-modal-2551 .dialog-widget-content {
+    box-shadow: 2px 8px 23px 3px rgb(0 0 0 / .2)
+}
